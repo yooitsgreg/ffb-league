@@ -6,19 +6,12 @@
 > league** (vs 8 teams from 2018 onward). Ryan and Preston departed after 2017 when the league
 > contracted to 8 teams. (Founding year is 2011, per the 2011 archive.)
 
-## Final placements (full 1–10 from the champions card)
+## Playoff finish (Top 3)
 | Place | Team | Owner |
 |---|---|---|
 | 🥇 1st | Trouble ZEKEr | Rob (Robbslyy) |
 | 🥈 2nd | Revis Christ | Steve (Savarese11) |
 | 🥉 3rd | The Fade Route | Greg (yooitsgreg) |
-| 4th | The Church of Favre | Will (wdyson21) |
-| 5th | Fifth Down Blunt | Josh (former member) |
-| 6th | Mackaroni and Brees | Corey (cpearso7) |
-| 7th | Rantin' and Raven | Dustin (DMorggggg) |
-| 8th | Trump For President | Ant (aballa95) |
-| 9th | Add Christ himself to the list | Ryan (former member) |
-| 10th | Sack Attack | Preston (former member) |
 
 ## Regular season standings
 | Seed | Team | Record | Win% | Stk | PF | PA | Owner |

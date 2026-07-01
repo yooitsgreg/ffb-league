@@ -1,23 +1,18 @@
 # Five Seven Bro — 2019 Season Results
 
-> **Source:** transcribed from two Sleeper screenshots (a champions card with full 1–8 final
-> placements + owner names, and the final regular-season table with PF/PA), provided by the
+> **Source:** transcribed from two Sleeper screenshots (a champions card + owner names, and the
+> final regular-season table with PF/PA), provided by the
 > commissioner 2026-06-30. Not a Sleeper API pull. **Note:** 13-game regular season (W-L-T, all
 > ties 0). All owners confirmed by commissioner. **Roster note:** 2019 predates Corey (joined 2020)
 > and Aaron (joined later). Two former members played: Josh (Fifth Down Blunt) and Brien (The Kamara
 > Adds 10lbs). Neither Josh nor Brien is in `data/owners.md` (current members only).
 
-## Final placements (playoff result — full 1–8 from the champions card)
+## Playoff finish (Top 3)
 | Place | Team | Owner |
 |---|---|---|
 | 🥇 1st | What Was I Thinkin' | Dustin (DMorggggg) |
 | 🥈 2nd | Wentzylvania | Rob (Robbslyy) |
 | 🥉 3rd | BrewBudds | Greg (yooitsgreg) |
-| 4th | Revis Christ | Steve (Savarese11) |
-| 5th | Fifth Down Blunt | Josh (former member) |
-| 6th | The Kamara Adds 10lbs | Brien (former member) |
-| 7th | Trump 2020 | Ant (aballa95) |
-| 8th | The Church of Favre | Will (wdyson21) |
 
 ## Regular season standings
 | Seed | Team | Record | Win% | PF | PA | Owner |
@@ -32,7 +27,6 @@
 | 8 | The Church of Favre | 3-10 | .231 | 1,487.32 | 1,855.54 | Will (wdyson21) |
 
 ## Notes
-- Richer than later screenshots: this one gave full final placements (1–8) AND points for/against.
 - **Dustin (What Was I Thinkin') won 2019** from the 4-seed (7-6) — his first of (at least) two titles.
 - **Rob (Wentzylvania) was runner-up despite a 5-8 regular season** (6-seed) — and led the league in
   PF among non-top-2 (1,966.01).

@@ -11,23 +11,12 @@
 > left, then briefly returned in 2016 and 2017 respectively. Ant (aballa95) was NOT in the 2013
 > league; he joined by 2015.
 
-## Final placements (full 1–14 from the champions card)
+## Playoff finish (Top 3)
 | Place | Team | Owner |
 |---|---|---|
 | 🥇 1st | im really drunk | Preston (former member) |
 | 🥈 2nd | RG3 and Out | Rob (Robbslyy) |
 | 🥉 3rd | Africa | chris (former member) |
-| 4th | Barkevious Django | Brien (former member) |
-| 5th | Good Weeden Alcohol | Greg (yooitsgreg) |
-| 6th | Fifth Down Blunt | Josh (former member) |
-| 7th | I'm Pitching a Tent Richardson | Corey (cpearso7) |
-| 8th | The Church of Favre | Will (wdyson21) |
-| 9th | Show me your TD's | Tyler (former member) |
-| 10th | Joe Defebo's Right Hand Man | Dustin (DMorggggg) |
-| 11th | blaze80 | Justin (former member) |
-| 12th | H-TOWN HUSTLE | Ryan (former member) |
-| 13th | Jet Lag | Steve (Savarese11) |
-| 14th | African Fury | Frank (former member) |
 
 ## Regular season standings (four-division format; overall seed in parentheses)
 

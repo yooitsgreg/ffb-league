@@ -5,18 +5,18 @@
 
 ## All-time regular-season leaderboard — current 8
 
-Sorted by career regular-season win%. Titles/Podiums/Last are final-standings finishes (see the ledger below for the completeness caveat).
+Sorted by career regular-season win%. 🏆/Podiums are top-3 playoff finishes. **Cellar** = regular-season last-place finishes (dead last in the standings — a clean, all-15-years stat). **🐱 cat-5k** = the actual last-place penalty, which only exists from 2023 on (see the two ledgers below).
 
-| Owner | Seasons | Record | Win% | PF/g | PA/g | Diff/g | 🏆 | Podiums | 🚽 Last |
-|---|---|---|---|---|---|---|---|---|---|
-| **Corey** | 14 (2011–2025) | 112-77 | 0.593 | 146.9 | 138.7 | +8.3 | 6 | 8 | 0 |
-| **Greg** | 14 (2012–2025) | 106-82 | 0.564 | 145.2 | 138.3 | +6.9 | 0 | 6 | 0 |
-| **Will** | 15 (2011–2025) | 109-93 | 0.540 | 138.5 | 139.7 | -1.3 | 1 | 3 | 2 |
-| **Rob** | 15 (2011–2025) | 106-96 | 0.525 | 145.2 | 142.8 | +2.4 | 2 | 4 | 0 |
-| **Steve** | 15 (2011–2025) | 93-109 | 0.460 | 139.6 | 142.9 | -3.3 | 0 | 4 | 1 |
-| **Dustin** | 13 (2013–2025) | 78-96 | 0.448 | 141.2 | 145.6 | -4.5 | 2 | 3 | 0 |
-| **Ant** | 11 (2015–2025) | 66-82 | 0.446 | 137.3 | 140.3 | -3.1 | 1 | 4 | 0 |
-| **Aaron** | 2 (2024–2025) | 10-18 | 0.357 | 131.9 | 142.7 | -10.8 | 0 | 1 | 1 |
+| Owner | Seasons | Record | Win% | PF/g | PA/g | Diff/g | 🏆 | Podiums | Cellar | 🐱 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Corey** | 14 (2011–2025) | 112-77 | 0.593 | 146.9 | 138.7 | +8.3 | 6 | 8 | 0 | 0 |
+| **Greg** | 14 (2012–2025) | 106-82 | 0.564 | 145.2 | 138.3 | +6.9 | 0 | 6 | 0 | 0 |
+| **Will** | 15 (2011–2025) | 109-93 | 0.540 | 138.5 | 139.7 | -1.3 | 1 | 3 | 2 | 1 |
+| **Rob** | 15 (2011–2025) | 106-96 | 0.525 | 145.2 | 142.8 | +2.4 | 2 | 4 | 0 | 0 |
+| **Steve** | 15 (2011–2025) | 93-109 | 0.460 | 139.6 | 142.9 | -3.3 | 0 | 4 | 4 | 1 |
+| **Dustin** | 13 (2013–2025) | 78-96 | 0.448 | 141.2 | 145.6 | -4.5 | 2 | 3 | 3 | 0 |
+| **Ant** | 11 (2015–2025) | 66-82 | 0.446 | 137.3 | 140.3 | -3.1 | 1 | 4 | 1 | 0 |
+| **Aaron** | 2 (2024–2025) | 10-18 | 0.357 | 131.9 | 142.7 | -10.8 | 0 | 1 | 1 | 1 |
 
 ## Championship roll
 
@@ -40,24 +40,37 @@ Sorted by career regular-season win%. Titles/Podiums/Last are final-standings fi
 
 **Titles won:** Corey (6), Rob (2), Dustin (2), Schawn-Paul (1), Preston (1), Ant (1), Will (1), Josh (1).
 
-## Last-place ledger (cat-5k lineage)
+## Regular-season cellar (dead-last finishers)
 
-The season's true last-place finisher — the cat-5k penalty. **Only complete-placement seasons are listed**; several early-Sleeper years only have Top-3 recorded, so their last-place is unknown and omitted (not counted in the leaderboard's Last column).
+Who finished **last in the regular-season standings** each year — the standardized, every-season measure of a lost year (by printed seed, which already applies the league tiebreak of head-to-head then PF). This is a record, **not** a penalty; the cat-5k penalty is the separate ledger below.
 
-| Year | Last place |
+| Year | Reg-season last |
 |---|---|
-| 2011 | Will |
+| 2011 | Evan |
 | 2012 | Schawn-Paul |
-| 2013 | Frank |
+| 2013 | Justin |
 | 2014 | Steve |
-| 2015 | Josh |
-| 2016 | Josh |
+| 2015 | Ant |
+| 2016 | Dustin |
 | 2017 | Preston |
-| 2018 | Josh |
+| 2018 | Dustin |
 | 2019 | Will |
+| 2020 | Dustin |
+| 2021 | Steve |
+| 2022 | Steve |
+| 2023 | Will |
+| 2024 | Steve |
 | 2025 | Aaron |
 
-*Last-place unknown (Top-3 only): 2020, 2021, 2022, 2023, 2024.*
+## cat-5k penalty ledger (2023→)
+
+The season's **actual last-place penalty** — the cat-5k. The penalty was only introduced in **2023**, so earlier years have none (a last-place finish before 2023 carried no stake). The penalty goes to the **toilet-bowl loser**, which need not be the regular-season cellar team; it is commissioner-recorded for the pre-Sleeper years (2023–2024) and derived from the Sleeper playoff bracket from 2025 on.
+
+| Year | cat-5k penalty |
+|---|---|
+| 2023 | Will |
+| 2024 | Steve |
+| 2025 | Aaron |
 
 ## The records book — single-season (all owners, every year)
 
@@ -131,7 +144,7 @@ Former members, kept separate from the current 8 (never mixed into the leaderboa
 ## What this can't tell you (yet)
 
 - **No all-time head-to-head.** Only `standings.md` exists for 2011–2024 — there are no matchup logs — so rivalry/H2H records can't be computed until enough Sleeper seasons (2025+) accumulate.
-- **Last-place is incomplete** for the Top-3-only years above.
+- **Final placements are recorded as Top-3 only for 2011–2024** (champion + podium). The full 4th–last finishing order isn't kept: the consolation/toilet bracket carried no stake before the 2023 cat-5k, so playing it out was optional and the order is noise. "How good was this team?" is answered by the regular-season standings, not a meaningless consolation seed. Full 1–8 placement resumes in 2025 (Sleeper era).
 - **Divisions & league size shifted** (12→14→10→8 teams; multi-division 2011–2015). Win% and per-game scoring are the fair cross-era yardsticks; seeds/placements are within-year only.
 - **Scoring rules changed across eras**, so PF/g is directional, not a clean apples-to-apples: 2014 ran on FleaFlicker with a much higher-scoring setup (it owns the top of the scoring board for that reason), and IDP scoring only arrived in 2025. Win% is the most era-proof number.
 

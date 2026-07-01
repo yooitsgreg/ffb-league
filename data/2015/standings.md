@@ -9,19 +9,12 @@
 > Brien for 2016, then Ryan replaced Tyler for 2017, then Preston and Ryan departed when the league
 > contracted to 8 for 2018. (Founding year is 2011, per the 2011 archive.)
 
-## Final placements (full 1–10 from the champions card)
+## Playoff finish (Top 3)
 | Place | Team | Owner |
 |---|---|---|
 | 🥇 1st | WeedenWillsBrownies | Corey (cpearso7) |
 | 🥈 2nd | Good Weeden Alcohol | Greg (yooitsgreg) |
 | 🥉 3rd | 8lb 6oz Baby Breesus | Brien (former member) |
-| 4th | Jamaal About That Bass | Dustin (DMorggggg) |
-| 5th | RG3 And Out | Rob (Robbslyy) |
-| 6th | Revis Christ | Steve (Savarese11) |
-| 7th | Trump For President | Ant (aballa95) |
-| 8th | The Church of Favre | Will (wdyson21) |
-| 9th | Sack Attack | Preston (former member) |
-| 10th | Fifth Down Blunt | Josh (former member) |
 
 ## Regular season standings (two-division format; overall seed in parentheses)
 

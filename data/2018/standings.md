@@ -7,17 +7,12 @@
 > won but was absent in 2019 (Brien joined as one-year replacement) and returned in 2020. Josh was
 > absent in 2020 only (Retail Tom was one-year replacement). Aaron joined in 2024 when Josh left.
 
-## Final placements (full 1–8 from the champions card)
+## Playoff finish (Top 3)
 | Place | Team | Owner |
 |---|---|---|
 | 🥇 1st | Not Even Trying This Year | Corey (cpearso7) |
 | 🥈 2nd | The Church of Favre | Will (wdyson21) |
 | 🥉 3rd | The Fade Route | Greg (yooitsgreg) |
-| 4th | Kansas City Kiefs | Ant (aballa95) |
-| 5th | MaHomeward Bound | Rob (Robbslyy) |
-| 6th | Revis Christ | Steve (Savarese11) |
-| 7th | What Was I Thinkin' | Dustin (DMorggggg) |
-| 8th | Fifth Down Blunt | Josh (former member) |
 
 ## Regular season standings
 | Seed | Team | Record | Win% | Stk | PF | PA | Owner |

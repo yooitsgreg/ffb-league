@@ -6,19 +6,12 @@
 > league.** Tyler was in 2016 only (replaced by Ryan for 2017); Preston and Ryan both departed after
 > 2017 when the league contracted to 8. (Founding year is 2011, per the 2011 archive.)
 
-## Final placements (full 1–10 from the champions card)
+## Playoff finish (Top 3)
 | Place | Team | Owner |
 |---|---|---|
 | 🥇 1st | Trump For President | Ant (aballa95) |
 | 🥈 2nd | Sack Attack | Preston (former member) |
 | 🥉 3rd | Dak to the Future IV | Corey (cpearso7) |
-| 4th | RG3 and OUT | Rob (Robbslyy) |
-| 5th | The Fade Route | Greg (yooitsgreg) |
-| 6th | The Church of Favre | Will (wdyson21) |
-| 7th | Revis Christ | Steve (Savarese11) |
-| 8th | Super Mariota | Dustin (DMorggggg) |
-| 9th | Turn Your Head and Coughlin | Tyler (former member) |
-| 10th | Fifth Down Blunt | Josh (former member) |
 
 ## Regular season standings
 | Seed | Team | Record | Win% | Stk | PF | PA | Owner |

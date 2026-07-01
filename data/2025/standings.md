@@ -19,6 +19,11 @@
 | 7th | The Toilet King | Rob (Robbslyy) |
 | 8th | Atomic Underdog | Aaron (mayyer23) |
 
+## Last place (cat-5k)
+| Owner | Note |
+|---|---|
+| Aaron (mayyer23) | Atomic Underdog, 3-11 — toilet-bowl loser (losers-bracket `w`, past Sleeper's inversion), cat-5k penalty. Derived from the Sleeper playoff bracket. |
+
 ## Regular season standings
 | Seed | Team | Record | Win% | Stk | PF | PA | Owner |
 |---|---|---|---|---|---|---|---|

@@ -12,6 +12,11 @@
 | 🥈 2nd | Strava Coffee Co | Aaron (mayyer23) |
 | 🥉 3rd | Chronicles of Lamarnia | Ant (aballa95) |
 
+## Last place (cat-5k)
+| Owner | Note |
+|---|---|
+| Steve (Savarese11) | Revis Christ, 4-10 — toilet-bowl loser, cat-5k penalty. Commissioner-recorded (pre-Sleeper). |
+
 ## Regular season standings
 | Seed | Team | Record | Win% | Stk | PF | PA | Owner |
 |---|---|---|---|---|---|---|---|

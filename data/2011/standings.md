@@ -6,22 +6,13 @@
 > founding year of the league. All owners confirmed by commissioner 2026-07-01.
 > Will McLaughlin (chris henry) is a 2011-only former member.
 
-## Final placements (1–12 from champions card)
+## Playoff finish (Top 3)
 
 | Place | Team | Owner |
 |---|---|---|
 | 🥇 1st | Buckfutters | Schawn-Paul (former member) |
 | 🥈 2nd | ROMOsapiens | Corey (cpearso7) |
 | 🥉 3rd | Revis Christ | Steve (Savarese11) |
-| 4th | Orlando Hustle | Ryan (former member) |
-| 5th | Mother Faulker'z | Josh (former member) |
-| 6th | Roberto | Rob (Robbslyy) |
-| 7th | retards | Preston (former member) |
-| 8th | Saint Breesus | Brien (former member) |
-| 9th | chris henry | Will McLaughlin (former member, 2011-only) |
-| 10th | V7CK | Evan (former member) |
-| 11th | The Romper Stompers | chris (former member) |
-| 12th | Favre's Disciples | Will (wdyson21) |
 
 ## Regular season standings (three-division format; overall seed in parentheses)
 

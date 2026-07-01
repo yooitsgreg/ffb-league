@@ -14,6 +14,11 @@
 | 🥈 2nd | Thousand Bucks Richer | Dustin (DMorggggg) |
 | 🥉 3rd | Revis Christ | Steve (Savarese11) |
 
+## Last place (cat-5k)
+| Owner | Note |
+|---|---|
+| Will (wdyson21) | The Church of Favre, 4-10 — toilet-bowl loser, **first year of the cat-5k penalty**. Commissioner-recorded (pre-Sleeper). |
+
 ## Regular season standings
 | Seed | Team | Record | Win% | Stk | PF | PA | Owner |
 |---|---|---|---|---|---|---|---|

@@ -12,23 +12,12 @@
 > confirmed season. Dustin (Joe Defebo's Right Hand Man) and chris (Africa) are absent from 2012;
 > they joined for the 2013 season.
 
-## Final placements (full 1–14 from the champions card)
+## Playoff finish (Top 3)
 | Place | Team | Owner |
 |---|---|---|
 | 🥇 1st | Breaston Plants | Corey (cpearso7) |
 | 🥈 2nd | Forth Down Blnt | Josh (former member) |
 | 🥉 3rd | P's Pensacola Penis Pumpers | Preston (former member) |
-| 4th | Favre's Disciples | Will (wdyson21) |
-| 5th | African Fury | Frank (former member) |
-| 6th | V7CK | Evan (former member) |
-| 7th | Show me your TD's | Tyler (former member) |
-| 8th | Green Bowl Packers | Greg (yooitsgreg) |
-| 9th | Roberto | Rob (Robbslyy) |
-| 10th | H-TOWN HUSTLE | Ryan (former member) |
-| 11th | Revis Christ | Steve (Savarese11) |
-| 12th | WhoDat Headhunters | Brien (former member) |
-| 13th | Coughlin | Justin (former member) |
-| 14th | Buckfutters | Schawn-Paul (former member) |
 
 ## Regular season standings (three-division format; overall seed in parentheses)
 
