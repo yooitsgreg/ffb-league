@@ -1,0 +1,123 @@
+[
+  {
+    "week": 3,
+    "rosters": [
+      "Church of Favre",
+      "Chasing Estevan"
+    ],
+    "received": {
+      "Church of Favre": [
+        "Josh Jacobs (RB)",
+        "Terry McLaurin (WR)",
+        "Tetairoa McMillan (WR)"
+      ],
+      "Chasing Estevan": [
+        "Drake London (WR)",
+        "Josh Allen (QB)",
+        "Travis Etienne (RB)"
+      ]
+    }
+  },
+  {
+    "week": 7,
+    "rosters": [
+      "Chasing Estevan",
+      "Stairway to Buddenhagen"
+    ],
+    "received": {
+      "Stairway to Buddenhagen": [
+        "Bobby Wagner (LB)",
+        "Brock Bowers (TE)",
+        "David Montgomery (RB)",
+        "Ja'Marr Chase (WR)",
+        "Jacory Croskey-Merritt (RB)",
+        "Kenneth Walker (RB)"
+      ],
+      "Chasing Estevan": [
+        "Jordan Mason (RB)",
+        "Nico Collins (WR)",
+        "Quentin Johnston (WR)",
+        "Quinshon Judkins (RB)",
+        "Rachaad White (RB)",
+        "Trey McBride (TE)"
+      ]
+    }
+  },
+  {
+    "week": 7,
+    "rosters": [
+      "Sutton Deez Nuts",
+      "Atomic Underdog"
+    ],
+    "received": {
+      "Sutton Deez Nuts": [
+        "DK Metcalf (WR)"
+      ],
+      "Atomic Underdog": [
+        "Jaylen Warren (RB)"
+      ]
+    }
+  },
+  {
+    "week": 8,
+    "rosters": [
+      "Sutton Deez Nuts",
+      "The Toilet King"
+    ],
+    "received": {
+      "The Toilet King": [
+        "Ashton Jeanty (RB)",
+        "Michael Pittman (WR)"
+      ],
+      "Sutton Deez Nuts": [
+        "D'Andre Swift (RB)"
+      ]
+    }
+  },
+  {
+    "week": 12,
+    "rosters": [
+      "Chasing Estevan",
+      "Stairway to Buddenhagen"
+    ],
+    "received": {
+      "Stairway to Buddenhagen": [
+        "Jack Campbell (LB)"
+      ],
+      "Chasing Estevan": [
+        "Bobby Wagner (LB)",
+        "Sean Tucker (RB)"
+      ]
+    }
+  },
+  {
+    "week": 12,
+    "rosters": [
+      "Church of Favre",
+      "Atomic Underdog"
+    ],
+    "received": {
+      "Church of Favre": [
+        "Ladd McConkey (WR)"
+      ],
+      "Atomic Underdog": [
+        "Jameson Williams (WR)"
+      ]
+    }
+  },
+  {
+    "week": 12,
+    "rosters": [
+      "Sutton Deez Nuts",
+      "Stairway to Buddenhagen"
+    ],
+    "received": {
+      "Sutton Deez Nuts": [
+        "David Montgomery (RB)"
+      ],
+      "Stairway to Buddenhagen": [
+        "Jake Ferguson (TE)"
+      ]
+    }
+  }
+]

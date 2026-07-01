@@ -1,0 +1,5 @@
+# 14MB NFL player map — regenerate with scripts/refresh.sh, never commit
+data/players/nfl_players.json
+# your local MCP config (copy from .mcp.json.example) — machine-specific path, keep untracked
+.mcp.json
+.DS_Store
