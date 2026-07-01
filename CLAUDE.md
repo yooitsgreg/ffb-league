@@ -23,33 +23,8 @@ generated content**. You review anything before you paste it into the group/Slee
 
 ## Setup
 
-- **Refresh live data (all you need to start):** `./scripts/refresh.sh` re-pulls the NFL player map
-  + current-season snapshot from Sleeper's public API. Everything in this repo works from the `data/`
-  files this produces — **no MCP required.**
-
-### Optional: live Sleeper MCP server
-
-For small, ad-hoc, interactive Sleeper queries you can add the `sleeper` MCP server. It's optional —
-skip it and just use `data/` + `refresh.sh` if you'd rather not configure it. To enable it:
-
-1. **Clone + build the server** (once), as a sibling folder of this repo:
-   ```bash
-   cd ..                                            # so it sits next to ffb-league/
-   git clone https://github.com/yooitsgreg/sleeper-mcp.git
-   cd sleeper-mcp && npm install && npm run build    # produces dist/index.js
-   ```
-2. **Point this repo at it:** copy the template and (if you cloned it somewhere else) edit the path:
-   ```bash
-   cd ../ffb-league
-   cp .mcp.json.example .mcp.json
-   ```
-   The template assumes `../sleeper-mcp/dist/index.js`. If you cloned it elsewhere, put the absolute
-   path to `dist/index.js` in `.mcp.json`. (`.mcp.json` is git-ignored — it's your machine-specific
-   config and won't be tracked or overwritten by updates.)
-3. **Restart Claude Code** in this folder; the `sleeper` tools will load.
-
-Note the MCP tools return into the chat context, so they're for **small** queries only — never the
-14MB player map (see below).
+See [README.md](README.md) for setup — `./scripts/refresh.sh` to pull the current-season snapshot
+(all you strictly need), plus the optional-but-recommended Sleeper MCP server for live data.
 
 ## Two ways to get Sleeper data — pick deliberately
 
